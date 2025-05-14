@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/poojagrace/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/poojagrace/leetcode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/poojagrace/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/poojagrace/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
