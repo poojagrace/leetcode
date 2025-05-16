@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/poojagrace/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0898-transpose-matrix](https://github.com/poojagrace/leetcode/tree/master/0898-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojagrace/leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/poojagrace/leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/poojagrace/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
