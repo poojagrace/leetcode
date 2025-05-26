@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poojagrace/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/poojagrace/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/poojagrace/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/poojagrace/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/poojagrace/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/poojagrace/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/poojagrace/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/poojagrace/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
