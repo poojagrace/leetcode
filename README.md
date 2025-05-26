@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/poojagrace/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/poojagrace/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/poojagrace/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/poojagrace/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/poojagrace/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/poojagrace/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/poojagrace/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/poojagrace/leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/poojagrace/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/poojagrace/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/poojagrace/leetcode/tree/master/0898-transpose-matrix) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/poojagrace/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/poojagrace/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/poojagrace/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
