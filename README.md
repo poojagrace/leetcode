@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/poojagrace/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/poojagrace/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/poojagrace/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0816-design-hashset](https://github.com/poojagrace/leetcode/tree/master/0816-design-hashset) |
 | [0861-flipping-an-image](https://github.com/poojagrace/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/poojagrace/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/poojagrace/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/poojagrace/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/poojagrace/leetcode/tree/master/0141-linked-list-cycle) |
+| [0816-design-hashset](https://github.com/poojagrace/leetcode/tree/master/0816-design-hashset) |
 ## Combinatorics
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/poojagrace/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/poojagrace/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/poojagrace/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/poojagrace/leetcode/tree/master/0816-design-hashset) |
 ## String Matching
 |  |
 | ------- |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/poojagrace/leetcode/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/poojagrace/leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/poojagrace/leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
